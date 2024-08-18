@@ -1,0 +1,84 @@
+{
+  "sanpham": [
+      {
+        "id": 1,
+        "name": "Audio Player A ",
+        "category": "Player",
+        "price": 69.99,
+        "quantity ": 100,
+        "image": "img/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Camera A",
+        "category": "Camera",
+        "price": 49.99,
+        "quantiy": 100,
+        "image": "img/2.jpg"
+        },
+      {
+        "id": 3,
+        "name": "Audio Player B",
+        "category": "Player",
+        "price": 64.99,
+        "quantiy": 30,
+        "image": "img/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Camera B",
+        "category": "Camera",
+        "price": 59.99,
+        "quantiy": 30,
+        "image": "img/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Camera C",
+        "category":"Camera",
+        "price": 44.99,
+        "quantiy": 30,
+        "image": "img/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "AirPods",
+        "category": "Others",
+        "price": 24.99,
+        "quantiy": 30,
+        "image": "img/6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Cassette",
+        "category": "Others",
+        "price": 74.99,
+        "quantiy": 30,
+        "image": "img/7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Audio Player C ",
+        "category": "Player",
+        "price": 71.00,
+        "quantiy": 30,
+        "image": "img/8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Game Console",
+        "category": "Others",
+        "price": 69.00,
+        "quantiy": 30,
+        "image": "img/9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Electric Guitar",
+        "category": "Others",
+        "price": 149.00,
+        "quantiy": 30,
+        "image": "img/10.jpg"
+      }
+    ]
+  }
